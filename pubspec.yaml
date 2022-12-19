@@ -64,6 +64,13 @@ flutter:
   assets:
    - assets/daytime.jpg
    - assets/nighttime.jpg
+   - assets/ch.png
+   - assets/jp.png
+   - assets/us.png
+   - assets/uk.png
+   - assets/sl.png
+   - assets/ca.png
+   - assets/mx.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

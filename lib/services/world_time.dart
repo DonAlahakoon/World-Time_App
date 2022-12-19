@@ -34,7 +34,7 @@ class WorldTime{
       now = now.add(Duration(hours: int.parse(offset1), minutes: int.parse(offset2)));
 
       //checking daytime or not
-      isDaytime = now.hour>6 && now.hour<8 ?true :false;
+      isDaytime = now.hour>6 && now.hour<18 ?true :false;
       //set the time property
       time = DateFormat.jm().format(now); //format the time using jm method of intl package
 
