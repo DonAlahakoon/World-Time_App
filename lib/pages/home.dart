@@ -21,7 +21,7 @@ class _HomeState extends State<Home> {
 
     //set background
     String bgImage = data['isDaytime']? 'daytime.jpg':'nighttime.jpg';
-    Color? bgColor = data['isDaytime']? Colors.yellow : Colors.indigo[900];
+    Color? bgColor = data['isDaytime']? Colors.yellow : Colors.black45;
 
     return Scaffold(
       backgroundColor: bgColor,
