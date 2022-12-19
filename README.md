@@ -1,16 +1,18 @@
-# world_time
+# world_time App
 
-A new Flutter project.
+This is an simple **World Time** Flutter app which gives real live time of several regions around the world.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Download the project and run using android studio IDE.
 
-A few resources to get you started if this is your first Flutter project:
+## How to run on a real device
+Connect the android device you wish to run the World Time App using a usb cable to your PC which the Android Studio runs. Select the device in Flutter Device Selection pane on the top bar of the IDE. (*To show your device on the IDE you should allow the Developer Options and USB Debugging on the device*) 
+It may takes several minutes on your first run.
+After installation anytime you can run the app directly without PC.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="ss/image1.png" alt="Image1" height="500">
+<img src="ss/image3.png" alt="Image2" height="500" float="right">
+<img src="ss/image2.png" alt="Image3" height="500">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
